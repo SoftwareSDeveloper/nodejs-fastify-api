@@ -1,0 +1,27 @@
+Configuração Inicial NODE.JS-FASTIFY_API
+
+npm init -y: Inicializa um novo projeto Node.js com configurações padrão, sem interação do user.
+
+npm install -g typescript: Instala o TypeScript globalmente no sistema.
+
+npm install -typescript --save-dev: Instala o TypeScript como dependência de desenvolvimento.
+
+npx tsc --init: Inicializa um projeto TypeScript num diretório específico, criando um arquivo de configuração tsconfig.json com configurações padrão.
+
+npm install fastify @fastify/cors: Instala o framework Fastify e o plugin Fastify CORS no diretório do projeto, adicionando-os como dependências no arquivo package.json.
+
+npm install tsx: Instala um pacote chamado tsx pré-existente
+
+npm install @types/node --save-dev: Instala as definições de tipo para Node.js como uma dependência de desenvolvimento no projeto
+
+npm install prisma --save-dev
+
+npm install @prisma/client
+
+npx prisma init
+
+npm install fastify-autoload
+
+npm install fastify-autoload
+
+
