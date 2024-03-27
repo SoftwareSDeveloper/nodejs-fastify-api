@@ -1,6 +1,4 @@
 import prismaClient from "../prisma";
-
-
 class CustomerService{
     async createCustomer({name, email}: Customer) {
 
